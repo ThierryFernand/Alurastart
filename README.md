@@ -16,5 +16,6 @@ Este projeto web tem como objetivo apresentar informações sobre cientistas ren
 
 ## Como Executar o Projeto
 1. **Clone o repositório:**
-   ```bash
-  git clone https://github.com/ThierryFernand/Alurastart.git
+ ```bash
+   git clone https://ThierryFernand/cientistas.git
+
